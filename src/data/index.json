@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "./React-icon.png",
+      "title": "React.js",
+      "description": "description of my knowledge in react"
+    },
+    {
+      "id": 2,
+      "src": "./React-icon.png",
+      "title": "JavaScript",
+      "description": "description of my knowledge in js"
+    },
+    {
+      "id": 3,
+      "src": "./React-icon.png",
+      "title": "TypeScript",
+      "description": "description of my knowledge in ts"
+    },
+    {
+      "id": 4,
+      "src": "./React-icon.png",
+      "title": "CSS/Sass",
+      "description": "description of my knowledge in css/sass"
+    },
+    {
+      "id": 5,
+      "src": "./React-icon.png",
+      "title": "TailwindCSS",
+      "description": "description of my knowledge in tailwindcss"
+    },
+    {
+      "id": 6,
+      "src": "./React-icon.png",
+      "title": "CSS/Sass",
+      "description": "description of my knowledge in css/sass"
+    },
+    {
+      "id": 7,
+      "src": "./React-icon.png",
+      "title": "CSS/Sass",
+      "description": "description of my knowledge in css/sass"
+    },
+    {
+      "id": 8,
+      "src": "./React-icon.png",
+      "title": "CSS/Sass",
+      "description": "description of my knowledge in css/sass"
+    }
+  ]
+}
