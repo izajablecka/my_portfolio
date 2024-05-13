@@ -1,13 +1,18 @@
 import React from 'react';
 import HeroSection from '../HeroSection';
 import MySkills from '../MySkills';
+import AboutMe from "../AboutMe";
+import MyPortfolio from "../MyPortfolio"
 
 function Home() {
     return (
         <>
-            <HeroSection />
-            <MySkills />
-</>
+            <HeroSection/>
+            <MySkills/>
+            <AboutMe/>
+            <MyPortfolio />
+        </>
     );
 }
+
 export default Home;

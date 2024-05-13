@@ -48,5 +48,32 @@
       "title": "CSS/Sass",
       "description": "description of my knowledge in css/sass"
     }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "Project 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github",
+      "web": "www"
+
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github",
+      "web": "www"
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "Project 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github",
+      "web": "www"
+    }
   ]
 }
