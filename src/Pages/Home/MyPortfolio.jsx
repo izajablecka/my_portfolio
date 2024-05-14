@@ -9,7 +9,7 @@ export default function MyPortfolio() {
                 </div>
                 <div>
                     <button className="btn btn-github">
-                        <a href="https://github.com/izajablecka" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/izajablecka" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none', color: 'inherit', fontWeight: '600'}}>
                                 <path
                                     fillRule="evenodd"
                                     clipRule="evenodd"

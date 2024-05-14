@@ -1,4 +1,5 @@
 import photo1 from "../../img/img_theme.png"
+import {Link} from "react-scroll";
 
 export default function HeroSection() {
     return (
@@ -14,7 +15,16 @@ export default function HeroSection() {
                         <br/> Constantly learning and evolving, I'm passionate about coding and eager to explore new horizons every day.
                     </p>
                 </div>
-                <button className="btn btn--primary">Let's get in touch!</button>
+                <Link
+                    spy={true}
+                    smooth={true}
+                    offset={-70}
+                    duration={500}
+                    to="Contact"
+                    className="btn btn-outline-primary-hero"
+                >
+                    Let's get in touch!
+                </Link>
             </div>
             <div className="hero--section--img">
                 <img src={photo1} alt="profilowe" style={{ width: "50%", height: "auto"}} />

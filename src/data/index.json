@@ -2,51 +2,50 @@
   "skills": [
     {
       "id": 1,
-      "src": "./React-icon.png",
+      "src": "../../img/img_theme.png",
       "title": "React.js",
-      "description": "description of my knowledge in react"
+      "description": "description of my knowledge vffgvfdv fgdfg bgfs"
     },
     {
       "id": 2,
       "src": "./React-icon.png",
       "title": "JavaScript",
-      "description": "description of my knowledge in js"
+      "description": "description"
     },
     {
       "id": 3,
       "src": "./React-icon.png",
       "title": "TypeScript",
-      "description": "description of my knowledge in ts"
+      "description": "description"
     },
     {
       "id": 4,
       "src": "./React-icon.png",
-      "title": "CSS/Sass",
-      "description": "description of my knowledge in css/sass"
+      "title": "CSS/SASS",
+      "description": "description"
     },
     {
       "id": 5,
       "src": "./React-icon.png",
       "title": "TailwindCSS",
-      "description": "description of my knowledge in tailwindcss"
+      "description": "description"
     },
     {
       "id": 6,
       "src": "./React-icon.png",
-      "title": "CSS/Sass",
-      "description": "description of my knowledge in css/sass"
+      "title": "Docker",
+      "description": "description"
     },
     {
       "id": 7,
-      "src": "./React-icon.png",
-      "title": "CSS/Sass",
-      "description": "description of my knowledge in css/sass"
+      "title": "Rest API",
+      "description": "description "
     },
     {
       "id": 8,
       "src": "./React-icon.png",
-      "title": "CSS/Sass",
-      "description": "description of my knowledge in css/sass"
+      "title": "Git/GitHub",
+      "description": "description "
     }
   ],
   "portfolio": [
