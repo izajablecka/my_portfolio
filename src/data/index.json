@@ -53,27 +53,27 @@
     {
       "id": "1",
       "src": "",
-      "title": "Project 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github",
-      "web": "www"
+      "title": "Weather App",
+      "description": "The weather app is a user-friendly application providing real-time\nweather information and allowing users to stay updated on\ncurrent weather conditions.\nTech Stack:\nReact.js, JavaScript, Sass, REST API",
+      "githubLink": "https://github.com/izajablecka/Final_Project_WeatherApp",
+      "webLink": "https://weatherapp-b12a1.web.app/"
 
     },
     {
       "id": "2",
       "src": "",
-      "title": "Project 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github",
-      "web": "www"
+      "title": "Oddam w Dobre Ręce",
+      "description": "The project is a website with a simple form to facilitate users in giving away their belongings.Tech Stack: React.js, Sass, React Router, React Scroll",
+      "githubLink": "https://github.com/izajablecka/Oddam_W_Dobre_Rece",
+      "webLink": "https://main--legendary-sawine-d1fc92.netlify.app/"
     },
     {
       "id": "3",
       "src": "",
-      "title": "Project 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github",
-      "web": "www"
+      "title": "BestShop website",
+      "description": "A project of a user-friendly website. ",
+      "githubLink": "https://github.com/izajablecka/BestShop_RWD",
+      "webLink": "https://bestshop-b3b9a.web.app/"
     }
   ]
 }

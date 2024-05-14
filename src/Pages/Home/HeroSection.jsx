@@ -1,4 +1,4 @@
-import photo1 from "../../img/my_img.jpeg"
+import photo1 from "../../img/img_theme.png"
 
 export default function HeroSection() {
     return (
@@ -17,7 +17,7 @@ export default function HeroSection() {
                 <button className="btn btn--primary">Let's get in touch!</button>
             </div>
             <div className="hero--section--img">
-                <img src={photo1} alt="" width={50} height={50}/>
+                <img src={photo1} alt="profilowe" style={{ width: "50%", height: "auto"}} />
             </div>
         </section>
     )
